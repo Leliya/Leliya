@@ -15,7 +15,7 @@
 
 ### Мои работы
 
-<table>
+<table display="table">
   <tbody>
     <tr>
       <td>Проект "Mesto" на VanillaJS</td>
@@ -42,7 +42,8 @@
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leliya&theme=vue" alt="GitHub Stats" width="600px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leliya&theme=vue" alt="GitHub Stats" width="292px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leliya&theme=vue" alt="GitHub Stats" width="700px" min-width="100%" display="flex"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leliya&theme=vue" alt="GitHub Stats" width="350px" max-width="none" min-width="100%" display="flex"/>
 
+<img src="https://www.codewars.com/users/leliya_m/badges/large" alt="https://www.codewars.com/users/leliya_m" width="350px" min-width="100%" align="center" display="flex"/>
 
-[![codewars](https://www.codewars.com/users/leliya_m/badges/large)](https://www.codewars.com/leliya_m/username)
