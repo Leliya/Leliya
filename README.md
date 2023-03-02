@@ -18,10 +18,6 @@
 <table display="table">
   <tbody>
     <tr>
-      <td>Проект "Mesto" на VanillaJS</td>
-      <td align="right">https://github.com/Leliya/mesto</td>
-    </tr>
-    <tr>
       <td>React-приложение "Mesto"</td>
       <td align="right">https://github.com/Leliya/react-mesto-api-full</td>
     </tr>
