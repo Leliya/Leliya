@@ -34,6 +34,15 @@
       <td>Веб-мессенджер</td>
       <td align="right">https://github.com/Leliya/middle.messenger.praktikum.yandex</td>
     </tr>
+    <tr>
+      <td>SPA прототип CRM (тестовое задание)</td>
+      <td align="right">https://github.com/Leliya/test-for-vdcom</td>
+    </tr>
+    <tr>
+      <td>Pet-project: READ MORE. <br/>
+         Приложение для сбора и хранения списка статей для последующего прочтения</td>
+      <td align="right">https://github.com/Leliya/read-more</td>
+    </tr>
   </tbody>
 </table>
 <br/>
