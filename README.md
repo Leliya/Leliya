@@ -39,7 +39,7 @@
       <td align="right">https://github.com/Leliya/test-for-vdcom</td>
     </tr>
     <tr>
-      <td>Pet-project: READ MORE. <br/>
+      <td>Pet-project: READ MORE. (в работе) <br/>
          Приложение для сбора и хранения списка статей для последующего прочтения</td>
       <td align="right">https://github.com/Leliya/read-more</td>
     </tr>
